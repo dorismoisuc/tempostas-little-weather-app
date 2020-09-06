@@ -12,6 +12,12 @@ It displays:
 
 ● 2 atmospheric conditions: main and secondary
 
+Things I could improve at my app:
+
+● making it an executable
+
+● the search getting results faster
+
 If the location entered doesn't exist, it displays a message.
 Also has a little info window. 
 
