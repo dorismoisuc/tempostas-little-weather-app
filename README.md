@@ -14,11 +14,10 @@ It displays:
 
 Things I could improve at my app:
 
-● making it an executable
-
 ● the search getting results faster
 
 If the location entered doesn't exist, it displays a message.
-Also has a little info window. 
+Also has an info window.
+I created it as an executable too.
 
 Enjoy! xD
